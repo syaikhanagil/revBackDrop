@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="dropContainer">
+        <attr name="dropMenuIcon" format="reference"/>
+        <attr name="dropCloseIcon" format="reference"/>
+        <attr name="duration" format="integer"/>
+    </declare-styleable>
+</resources>
