@@ -1,6 +1,7 @@
+[![](https://jitpack.io/v/syaikhanagil/revBackDrop.svg)](https://jitpack.io/#syaikhanagil/revBackDrop)
 ## revBackDrop
 Easy Material Backdrop Library
-###### Based of Material Design Backdrop.[Backdrop](https://material.io/design/components/backdrop.html)
+###### Based of Material Design [Backdrop](https://material.io/design/components/backdrop.html)
 -----
 ### Preview
 <img src="preview/before.png" width="250"> ** ** <img src="preview/after.png" width="250"> ** ** <img src="preview/prev1.gif" width="250">
@@ -12,11 +13,11 @@ Easy Material Backdrop Library
 ##### Include the `revBackDrop` dependency in app's **build.gradle** and you are good to go.
 
 ```groovy
-implementation 'com.github.syaikhanagil.revBackDrop:1.1'
+implementation 'com.github.syaikhanagil.revBackDrop:1.2'
 ```
 or
 ```groovy
-compile 'com.github.syaikhanagil.revBackDrop:1.1'
+compile 'com.github.syaikhanagil.revBackDrop:1.2'
 ```
 
 ### Usage
